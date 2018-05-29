@@ -3,9 +3,9 @@
 -- main.lua
 --
 -- Created by: Sebastian N
--- Created on: May 15
+-- Created on: May 28
 --
--- This programs links scenes and physics
+-- This programs links scenes, physics and tiled
 -----------------------------------------------------------------------------------------
 
 -- Variable for composer
